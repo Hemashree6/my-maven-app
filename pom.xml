@@ -14,7 +14,7 @@
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-compiler-plugin</artifactId>
-            <version>3.8.1</version> <!-- Make sure this version is compatible -->
+            <version>3.3.2</version> <!-- Make sure this version is compatible -->
             <configuration>
                 <source>1.8</source> <!-- Set to 1.8 or higher -->
                 <target>1.8</target> <!-- Set to 1.8 or higher -->
